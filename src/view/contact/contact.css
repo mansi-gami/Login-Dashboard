@@ -1,0 +1,7 @@
+.contact-container{
+    display: flex;
+    height: 100vh;
+    background: linear-gradient(to bottom,#99bdb9, #b8d4b4, #c6d4b4);
+    justify-content: center;
+    align-items: center;
+}
